@@ -8,8 +8,6 @@ Open Deep Learning and Reinforcement Learning lectures from top Universities lik
   - MIT 6.S191: Introduction to Deep Learning | 2020
 - [NLP with Deep Learning](#nlp-with-deep-learning)
   - CS224n: NLP with Deep Learning, Stanford | Winter 2019
-- [Deep Reinforcement Learning](#deep-reinforcement-learning)
-  - CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2019
 - [Unsupervised Learning](#unsupervised-learning)
   - CS294-158-SP20: Deep Unsupervised Learning, UC Berkeley | Spring 2020
 - [Machine learning | Stanford Autumn 2018 ]
@@ -37,13 +35,6 @@ Natural language processing (NLP) is a crucial part of artificial intelligence (
 Source: Stanford
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/nlp_stanford.png" width="600"></p>](http://web.stanford.edu/class/cs224n/index.html#schedule)
-
-# Deep Reinforcement Learning
-
-### CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2019
-[Lecture Series, YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
-
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/berkeley.png" width="600"></p>](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
 
 # Unsupervised Learning
 
