@@ -13,6 +13,7 @@ Open Deep Learning and Reinforcement Learning lectures from top Universities lik
 - [Machine learning | Stanford Autumn 2018 ]
   - https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU 
   - https://github.com/SKKSaikia/CS229_ML
+  - huge list , be careful when you open ! https://deep-learning-drizzle.github.io/index.html#nlpnn
 
 # Introduction to Deep Learning
 
