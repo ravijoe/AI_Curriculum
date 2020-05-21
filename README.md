@@ -15,6 +15,7 @@ Open Deep Learning and Reinforcement Learning lectures from top Universities lik
   - https://github.com/SKKSaikia/CS229_ML
 - https://github.com/jeffheaton/t81_558_deep_learning
 - https://learn.datacamp.com/courses/regular-expressions-in-python regex course
+- https://github.com/chiphuyen/stanford-tensorflow-tutorials
 
 # Introduction to Deep Learning
 
