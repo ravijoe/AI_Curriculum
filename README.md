@@ -15,8 +15,8 @@ Open Deep Learning and Reinforcement Learning lectures from top Universities lik
   - https://github.com/SKKSaikia/CS229_ML
 - https://github.com/jeffheaton/t81_558_deep_learning
 
--https://github.com/ageron/handson-ml2
-
+- https://github.com/ageron/handson-ml2
+- https://github.com/curiousily/Getting-Things-Done-with-Pytorch
 - https://github.com/chiphuyen/stanford-tensorflow-tutorials
 - https://github.com/srivatsan88/Mastering-Apache-Spark
 
