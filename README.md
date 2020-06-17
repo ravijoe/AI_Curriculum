@@ -19,7 +19,7 @@ Open Deep Learning and Reinforcement Learning lectures from top Universities lik
 - https://github.com/curiousily/Getting-Things-Done-with-Pytorch
 - https://github.com/chiphuyen/stanford-tensorflow-tutorials
 - https://github.com/srivatsan88/Mastering-Apache-Spark
-
+- https://github.com/omerbsezer/LSTM_RNN_Tutorials_with_Demo#whatisDL
 # Introduction to Deep Learning
 
 ### MIT 6.S191: Introduction to Deep Learning | 2020
