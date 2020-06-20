@@ -22,6 +22,7 @@ Open Deep Learning lectures from top Universities like Stanford University, MIT,
 - https://github.com/omerbsezer/LSTM_RNN_Tutorials_with_Demo#whatisDL
 - https://github.com/kjw0612/awesome-rnn#codes
 - https://github.com/Michael2Tang/ML_Doc/blob/master/Neural%20Network%20Methods%20in%20Natural%20Language%20Processing-Morgan%20%26%20Claypool%20Publishers%20(2017)%20-%20Yoav%20Goldberg%2C%20Graeme%20Hirst.pdf
+- https://github.com/khanhnamle1994/natural-language-processing
 # Introduction to Deep Learning
 
 ### MIT 6.S191: Introduction to Deep Learning | 2020
