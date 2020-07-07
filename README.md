@@ -27,6 +27,8 @@ Open Deep Learning lectures from top Universities like Stanford University, MIT,
 - https://www.youtube.com/watch?v=9TFnjJkfqmA&list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT&index=110
 - https://www.youtube.com/watch?v=Be6xN2Xe0yU
 - https://github.com/ravijoe/nlp_course
+- https://github.com/samacker77/Zero-to-Hero-in-NLP
+
 # Introduction to Deep Learning
 
 ### MIT 6.S191: Introduction to Deep Learning | 2020
