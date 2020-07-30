@@ -30,6 +30,7 @@ Open Deep Learning lectures from top Universities like Stanford University, MIT,
 - https://github.com/samacker77/Zero-to-Hero-in-NLP
 - https://github.com/chiphuyen/stanford-tensorflow-tutorials
 - https://atcold.github.io/pytorch-Deep-Learning/en/week02/02-1/
+- https://github.com/ageron/handson-ml2
 
 # Introduction to Deep Learning
 
