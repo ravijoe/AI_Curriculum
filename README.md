@@ -33,6 +33,7 @@ Open Deep Learning lectures from top Universities like Stanford University, MIT,
 - https://github.com/ageron/handson-ml2
 - https://www.deeplearningbook.org/
 -https://github.com/fastai/fastbook
+-https://github.com/atcold/pytorch-Deep-Learning/
 
 
 # Introduction to Deep Learning
