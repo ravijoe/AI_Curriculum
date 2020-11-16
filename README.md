@@ -35,7 +35,7 @@ Open Deep Learning lectures from top Universities like Stanford University, MIT,
 -https://github.com/fastai/fastbook
 -https://github.com/atcold/pytorch-Deep-Learning/
 -https://github.com/yandexdataschool/nlp_course
-
+- https://github.com/sebastianruder/NLP-progress
 # Introduction to Deep Learning
 
 ### MIT 6.S191: Introduction to Deep Learning | 2020
